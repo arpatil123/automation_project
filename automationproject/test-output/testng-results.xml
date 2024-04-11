@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-11T15:40:01 IST" name="Default suite" finished-at="2024-04-11T15:41:50 IST" duration-ms="109010">
+    <groups>
+    </groups>
+    <test started-at="2024-04-11T15:40:01 IST" name="Default test" finished-at="2024-04-11T15:41:50 IST" duration-ms="109010">
+      <class name="e_commerce_automationprj.A_testscenarios">
+        <test-method is-config="true" signature="launchbrowser()[pri:0, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:40:01 IST" name="launchbrowser" finished-at="2024-04-11T15:40:10 IST" duration-ms="8895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method signature="signin()[pri:1, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:40:10 IST" name="signin" finished-at="2024-04-11T15:40:22 IST" duration-ms="12366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method signature="customer_info()[pri:2, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:40:22 IST" name="customer_info" finished-at="2024-04-11T15:40:31 IST" duration-ms="8656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- customer_info -->
+        <test-method signature="searchbox()[pri:3, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:40:31 IST" name="searchbox" finished-at="2024-04-11T15:40:41 IST" duration-ms="10241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method signature="listpage()[pri:4, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:40:41 IST" name="listpage" finished-at="2024-04-11T15:40:45 IST" duration-ms="3944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listpage -->
+        <test-method signature="product_details()[pri:5, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:40:45 IST" name="product_details" finished-at="2024-04-11T15:41:17 IST" duration-ms="32222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_details -->
+        <test-method signature="shopping_cartdetails()[pri:6, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:41:17 IST" name="shopping_cartdetails" finished-at="2024-04-11T15:41:23 IST" duration-ms="6380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopping_cartdetails -->
+        <test-method signature="shipping_page()[pri:7, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:41:23 IST" name="shipping_page" finished-at="2024-04-11T15:41:37 IST" duration-ms="13066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shipping_page -->
+        <test-method signature="payment_details()[pri:8, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:41:37 IST" name="payment_details" finished-at="2024-04-11T15:41:41 IST" duration-ms="4215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment_details -->
+        <test-method signature="confirmdetails()[pri:9, instance:e_commerce_automationprj.A_testscenarios@62379589]" started-at="2024-04-11T15:41:41 IST" name="confirmdetails" finished-at="2024-04-11T15:41:50 IST" duration-ms="8918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmdetails -->
+      </class> <!-- e_commerce_automationprj.A_testscenarios -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
